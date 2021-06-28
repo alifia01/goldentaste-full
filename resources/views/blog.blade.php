@@ -49,10 +49,10 @@
                             <div class="blog__sidebar__recent">
                                 <a href="#" class="blog__sidebar__recent__item">
                                     <div class="blog__sidebar__recent__item__pic">
-                                        <img src="img/blog/sidebar/donat.jpg" alt="">
+                                        <img src="img/blog/sidebar/sr-1.jpg" alt="">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>10 Tips Memasak <br /> donat kentang</h6>
+                                        <h6>Manfaat berry <br /> pada tubuh</h6>
                                         <span>MAR 05, 2021</span>
                                     </div>
                                 </a>
@@ -67,10 +67,10 @@
                                 </a>
                                 <a href="#" class="blog__sidebar__recent__item">
                                     <div class="blog__sidebar__recent__item__pic">
-                                        <img src="img/blog/sidebar/alatdapur.jpg" alt="">
+                                        <img src="img/blog/sidebar/sr-3.jpg" alt="">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>Tips menyimpan alat dapur <br /> </h6>
+                                        <h6>Manfaat jus <br /> pada kesehatan </h6>
                                         <span>MAR 03, 2021</span>
                                     </div>
                                 </a>
