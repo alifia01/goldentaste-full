@@ -156,7 +156,11 @@
                             </div>
                         </div>
                     
+<<<<<<< HEAD
                         <!-- <div class="col-lg-12"> 
+=======
+                        <!-- <div class="col-lg-12">
+>>>>>>> 7f3c2a04129211889cb83aabfaab30e48cf30a48
                             <div class="product__pagination blog__pagination">
                                 <a href="#">1</a>
                                 <a href="#">2</a>
