@@ -52,7 +52,7 @@
                                         <img src="img/blog/sidebar/sr-1.jpg" alt="">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>Manfaat berry <br /> pada tubuh</h6>
+                                        <h6>Manfaat berry<br /> pada tubuh</h6>
                                         <span>MAR 05, 2021</span>
                                     </div>
                                 </a>
